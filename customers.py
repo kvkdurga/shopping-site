@@ -1,6 +1,5 @@
 """Customers at Hackbright."""
 
-
 class Customer(object):
     """Ubermelon customer."""
 
